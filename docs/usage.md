@@ -1,8 +1,8 @@
-# Flink 使用指南
+# Flink-流数据分析工具使用指南
 
 # 商品链接
 
-[Flink-流数据分析工具](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856)
+[Flink-流数据分析工具](https://marketplace.huaweicloud.com/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856)
 
 # 商品说明
 
@@ -12,7 +12,7 @@ Apache Flink 是一个开源的分布式流处理框架，专为大规模数据�
 
 # 商品购买
 
-您可以在云商店搜索 **flink**。
+您可以在云商店搜索 **Flink-流数据分析工具**。
 
 其中，地域、规格、推荐配置使用默认，购买方式根据您的需求选择按需/按月/按年，短期使用推荐按需，长期使用推荐按月/按年，确认配置后点击“立即购买”。
 
