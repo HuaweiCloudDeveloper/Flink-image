@@ -28,7 +28,7 @@
 
 ![](./images/img2.png)
 
-本项目提供的开源镜像商品 [**`Flink-流数据分析工具`**](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856)，已预先安装 Flink 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**`Flink-流数据分析工具`**](https://marketplace.huaweicloud.com/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856)，已预先安装 Flink 软件及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2GHz 或更高
@@ -40,13 +40,13 @@
 
 ## 镜像说明
 
-| 镜像规格 | 特性说明 | 备注 |
-| --- | --- | --- |
-| [Flink1.13.0-arm-v1.0](https://github.com/HuaweiCloudDeveloper/flink-image/tree/Flink1.13.0-arm-v1.0?tab=readme-ov-file) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
-| [Flink1.17.0-arm-v2.0](https://github.com/HuaweiCloudDeveloper/flink-image/tree/Flink1.17.0-arm-v2.0?tab=readme-ov-file) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署，新增对 GaussDB 实时写入与实时采集 |  |
+| 镜像规格                                                                                                                     | 特性说明 | 备注 |
+|--------------------------------------------------------------------------------------------------------------------------| --- | --- |
+| [Flink-1.13.0-kunpeng](https://github.com/HuaweiCloudDeveloper/flink-image/tree/Flink-1.13.0-kunpeng) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [Flink-1.17.0-kunpeng](https://github.com/HuaweiCloudDeveloper/flink-image/tree/Flink-1.17.0-kunpeng) | 基于 鲲鹏服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署，新增对 GaussDB 实时写入与实时采集 |  |
 
 ## 获取帮助
-- 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/Flink-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
+- 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/flink-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
 - 其他开源镜像可看 [open-source-image-repos](https://github.com/HuaweiCloudDeveloper/open-source-image-repos)
 
 ## 如何贡献

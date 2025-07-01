@@ -28,7 +28,7 @@
 
 ![](./images/img2.png)
 
-This project offers pre-configured [**Flink Stream Analysis Tool**](https://marketplace.huaweicloud.com/hidden/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856) images with Flink and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
+This project offers pre-configured [**Flink Stream Analysis Tool**](https://marketplace.huaweicloud.com/contents/992480da-64a3-4ba8-90cb-686d1832e96a#productid=OFFI1111485128289529856) images with Flink and its runtime environment pre-installed, along with deployment templates. Follow the guide to enjoy an "out-of-the-box" experience.
 
 > **System Requirements:**
 > - CPU: 2GHz or higher  
@@ -40,13 +40,13 @@ This project offers pre-configured [**Flink Stream Analysis Tool**](https://mark
 
 ## Image Specifications  
 
-| Image Version | Description | Notes |  
-|--------------|-------------|-------|  
-| [Flink1.13.0-arm-v1.0](https://github.com/HuaweiCloudDeveloper/flink-image/tree/Flink1.13.0-arm-v1.0?tab=readme-ov-file) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
-| [Flink1.17.0-arm-v2.0](https://github.com/HuaweiCloudDeveloper/flink-image/tree/Flink1.17.0-arm-v2.0?tab=readme-ov-file) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit, added real-time writing and real-time collection of GaussDB |  |  
+| Image Version                                                                                                            | Description | Notes |  
+|--------------------------------------------------------------------------------------------------------------------------|-------------|-------|  
+| [Flink-1.13.0-kunpeng](https://github.com/HuaweiCloudDeveloper/flink-image/tree/Flink-1.13.0-kunpeng)                    | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit |  | 
+| [Flink-1.17.0-kunpeng](https://github.com/HuaweiCloudDeveloper/flink-image/tree/Flink-1.17.0-kunpeng) | Deployed on Kunpeng servers with Huawei Cloud EulerOS 2.0 64bit, added real-time writing and real-time collection of GaussDB |  |  
 
 ## Getting Help
-- Submit an [issue](https://github.com/HuaweiCloudDeveloper/Flink-image/issues)
+- Submit an [issue](https://github.com/HuaweiCloudDeveloper/flink-image/issues)
 - Contact Huawei Cloud Marketplace product support
 
 ## How to Contribute
